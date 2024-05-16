@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CarRental-desktop": {
+      "commandName": "Project"
+    },
+    "Consol": {
+      "commandName": "Project",
+      "commandLineArgs": "--stat"
+    }
+  }
+}
